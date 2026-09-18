@@ -31,6 +31,11 @@ Inspect retained NTFS USN history after an agent run for filesystem activity abs
 
 GitHub: https://github.com/iwadjp/afterimage
 
+### sourcemap-lineage
+Relate JavaScript sourcemap sourcesContent to Git history and preserve ambiguity between source-identical commits.
+
+GitHub: https://github.com/iwadjp/sourcemap-lineage
+
 ## Tool selection
 
 | If you need to... | Tool |
@@ -40,9 +45,10 @@ GitHub: https://github.com/iwadjp/afterimage
 | recover lost JS from a live Node process | [Ember](https://github.com/iwadjp/ember) |
 | isolate same-commit environment differences | [Worldbisect](https://github.com/iwadjp/worldbisect) |
 | inspect file activity missing from the final diff | [Afterimage](https://github.com/iwadjp/afterimage) |
+| relate a JS artifact's sourcemap to Git history | [sourcemap-lineage](https://github.com/iwadjp/sourcemap-lineage) |
 
 ## Articles / overview
 
-An overview of all five tools, with the story behind each one (Japanese-language blog):
+An overview of all six tools, with the story behind each one (Japanese-language blog):
 
 https://blog2020.iwadjp.com/2026/09/18/ai-coding-debugging-tools-portfolio/
