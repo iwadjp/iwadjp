@@ -36,6 +36,11 @@ Relate JavaScript sourcemap sourcesContent to Git history and preserve ambiguity
 
 GitHub: https://github.com/iwadjp/sourcemap-lineage
 
+### workflow-script-audit
+Checks GitHub Actions npm/pnpm/yarn script invocations against the package.json they resolve to.
+
+GitHub: https://github.com/iwadjp/workflow-script-audit
+
 ## Tool selection
 
 | If you need to... | Tool |
@@ -46,6 +51,7 @@ GitHub: https://github.com/iwadjp/sourcemap-lineage
 | isolate same-commit environment differences | [Worldbisect](https://github.com/iwadjp/worldbisect) |
 | inspect file activity missing from the final diff | [Afterimage](https://github.com/iwadjp/afterimage) |
 | relate a JS artifact's sourcemap to Git history | [sourcemap-lineage](https://github.com/iwadjp/sourcemap-lineage) |
+| catch a workflow calling a package.json script that no longer exists | [workflow-script-audit](https://github.com/iwadjp/workflow-script-audit) |
 
 ## Articles / overview
 
