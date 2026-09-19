@@ -55,6 +55,6 @@ GitHub: https://github.com/iwadjp/workflow-script-audit
 
 ## Articles / overview
 
-An overview of all six tools, with the story behind each one (Japanese-language blog):
+An overview of all seven tools, with the story behind each one (Japanese-language blog):
 
 https://blog2020.iwadjp.com/2026/09/18/ai-coding-debugging-tools-portfolio/
